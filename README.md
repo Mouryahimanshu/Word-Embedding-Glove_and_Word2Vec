@@ -1,1 +1,1 @@
-# Word-Embedding-Using-NLP
+# Word-Embedding-Glove-Word2Vec
